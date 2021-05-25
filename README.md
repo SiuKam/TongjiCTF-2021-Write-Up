@@ -1,4 +1,4 @@
-# TongjiCTF 2021 write up
+# TongjiCTF 2021 Write Up
 ## 1. Misc
 ### 1.1. Sanity Check
 使用HexChat登入提供的IRC服务器`irc.ctf.huangduligong.com/6667`，得到messa of the day:
